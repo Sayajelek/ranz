@@ -3,10 +3,10 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 // Other
-global.owner = ['6285810541848']
-global.premium = ['6285810541848']
-global.packname = 'Milik'
-global.author = 'Lang'
+global.owner = ['6285880982400']
+global.premium = ['6285880982400']
+global.packname = 'Leenz'
+global.author = 'Xd'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🤠'
