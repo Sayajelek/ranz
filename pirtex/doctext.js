@@ -1,4 +1,4 @@
-const doctext = `TWO BROTHER CRASH
+const doctext = `𝙇𝙀𝙀𝙉𝙕 𝙏𝙍𝘼𝙑𝘼𝙎
 
 
 
