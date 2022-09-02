@@ -4,7 +4,7 @@ const chalk = require('chalk')
 
 // Other
 global.owner = ['6282290542977']
-global.premium = ['6285880982400']
+global.premium = ['6282290542977']
 global.packname = 'Leenz'
 global.author = 'Xd'
 global.sessionName = 'session'
